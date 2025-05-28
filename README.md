@@ -1,8 +1,8 @@
 # Balance Sheet | FCC Responsive Web Design Certification
 
-**Project 10/20**
+**Project 11/20**
 
-**In Process!!!**
+A responsive and accessible balance sheet layout for AcmeWidgetCorp. This project organizes financial data using semantic HTML tables, styled with pure CSS. The design mimics real-world financial reports and includes assets, liabilities, and net worth over three years.
 
 ---
 
@@ -27,25 +27,45 @@
 
 ### 📸 Screenshot
 
-**In Process!!!**
+![screenshot of the project's webpage](./assets/screenshot.jpg)
 
 ### 🔗 Links
 
-**In Process!!!**
+ - [🔴 Live Demo](https://dalascript.github.io/balance-sheet/)
+ - [🗂️ GitHub Repository](https://github.com/DalaScript/balance-sheet)
 
 ### 📌 Features
 
-**In Process!!!**
+ - ✅ Semantic HTML tables for structured financial data
+ - ✅ Visually hidden labels for accessibility (`.sr-only`)
+ - ✅ Responsive layout with sticky year header
+ - ✅ Hover effect on totals
+ - ✅ Description hints under each table row
+ - ✅ Consistent column width and clean alignment
 
 ## 🧠 My Process
 
 ### 🛠️ Built with
 
-**In Process!!!**
+ - HTML5
+ - CSS3
+ - Accessibility-first approach
 
 ### 🎓 What I Learned
 
-**In Process!!!**
+ - How to organize large datasets with HTML tables
+ - Using sticky headers for better readability
+ - Styling financial content with consistent spacing and alignment
+ - Improving accessibility with screen reader-only text
+ - Creating responsive layouts without frameworks
+
+  > 🚀 For me, this project was more about **practice** and gaining additional **experience**,  
+  > rather than learning something entirely new.  
+  >  
+  > 👨‍💻 Since I’m not a beginner and already familiar with these technologies,  
+  > I approached it with confidence — and still, I truly **enjoyed working on it**.  
+  >  
+  > 🎯 Overall, I consider this a very **valuable and enjoyable experience**.
 
 ### 🔙 Previous Project
 
